@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 env:
-  # Set Node.js Version
+  # Set python Version and AWS region
   PYTHON_VERSION: '3.10'
   AWS_REGION: 'us-east-1'
 
